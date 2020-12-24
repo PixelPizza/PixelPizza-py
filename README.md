@@ -10,7 +10,7 @@
 
 <br />
 
-[![](https://img.shields.io/discord/709698572035162143?label=Discord%20Chat)](https://www.discord.com/invite/MzbsFPe)
+[![](https://img.shields.io/discord/709698572035162143?label=Discord%20Chat)](https://www.discord.com/invite/AW7z9qu)
 
 Description
 ---
